@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3192a6a085ec642469647f56fe48951a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Lemon: {fileID: 1463132250, guid: daf67eaeee991c946bd99c360725496c, type: 3}
+  - Rum: {fileID: 7930627681481242035, guid: 96adc877c40ab504d8daf5b3654b3918, type: 3}
+  - Doubloon: {fileID: 3936483002869173762, guid: a7fe6936aaf27be4fb79f51270aba177,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
