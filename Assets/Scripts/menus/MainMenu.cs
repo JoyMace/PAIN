@@ -15,6 +15,7 @@ public class MainMenu : MonoBehaviour
     {
         AudioManager.Play(AudioClipName.MenuButtonClick);
         Score.getScore = 0;
+        Configuration.Difficulty = DifficultyLevels.Easy;
         NinjaConfiguration.set_Config(DifficultyLevels.Easy);
         MenuManager.GoToMenu(MenuName.Gameplay);
     }
