@@ -1,4 +1,4 @@
-# PAIN
+# PAIN: Pirates vs Artificially Intelligent Ninjas
 
 
 
